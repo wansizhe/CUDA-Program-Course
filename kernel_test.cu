@@ -1,4 +1,4 @@
-/*�����˹����ڴ棬�Ľ��˼ӷ�*/
+/*添加了共享内存，改进了加法*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <cuda_runtime.h>
